@@ -4,10 +4,10 @@ Tech1: Graphic Project, My_RPG
 Promo 2023, Tech 1.
 
 Credit:
--Gaetan,
--Tony,
--Alain,
--Axel.
+-Gaetan Depin,
+-Tony Marini,
+-Alain Nguyen,
+-Axel Virot,
 -[VexedEnigma/PixelJustice] (Asset)
 
 Copyright Law Section 107 (U.S. Copyright Act, 1976) provides that fair use of a copyrighted work,
